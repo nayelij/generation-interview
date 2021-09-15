@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/generation-interview/static/css/main.bdb3e4d4.chunk.css",
+    "main.js": "/generation-interview/static/js/main.f7568508.chunk.js",
+    "main.js.map": "/generation-interview/static/js/main.f7568508.chunk.js.map",
+    "runtime-main.js": "/generation-interview/static/js/runtime-main.18e65500.js",
+    "runtime-main.js.map": "/generation-interview/static/js/runtime-main.18e65500.js.map",
+    "static/css/2.df93ccea.chunk.css": "/generation-interview/static/css/2.df93ccea.chunk.css",
+    "static/js/2.bb85151f.chunk.js": "/generation-interview/static/js/2.bb85151f.chunk.js",
+    "static/js/2.bb85151f.chunk.js.map": "/generation-interview/static/js/2.bb85151f.chunk.js.map",
+    "index.html": "/generation-interview/index.html",
+    "static/css/2.df93ccea.chunk.css.map": "/generation-interview/static/css/2.df93ccea.chunk.css.map",
+    "static/css/main.bdb3e4d4.chunk.css.map": "/generation-interview/static/css/main.bdb3e4d4.chunk.css.map",
+    "static/js/2.bb85151f.chunk.js.LICENSE.txt": "/generation-interview/static/js/2.bb85151f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18e65500.js",
+    "static/css/2.df93ccea.chunk.css",
+    "static/js/2.bb85151f.chunk.js",
+    "static/css/main.bdb3e4d4.chunk.css",
+    "static/js/main.f7568508.chunk.js"
+  ]
+}
